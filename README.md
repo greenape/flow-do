@@ -12,4 +12,4 @@ Click the twitter button in the top right to log in, and persist your todo list.
 
 Todos you can do right now, are green.
 
-Try it out at https://flickering-heat-3413.firebaseapp.com/
+Try it out at https://greenape.github.io/flowdo
